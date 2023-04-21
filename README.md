@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌🏻🎈 About Me:
 🏢 Looking for a job<br>👦🏻 18 y.o.<br>⚙️ I like to learn new technologies<br>❤️ II'm in love with web development<br>⚡ Fun fact - I love cooking
 
 
