@@ -1,6 +1,3 @@
-# ✌🏻🎈 About Me:
-🏢 Looking for a job<br>👦🏻 18 y.o.<br>⚙️ I like to learn new technologies<br>❤️ I'm in love with web development<br>⚡ Fun fact - I love cooking
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maksdenishchuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/max-denishchuk) 
 
